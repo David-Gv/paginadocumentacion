@@ -1,3 +1,3 @@
-# paginadocumentacion
-Pagina documentación del proyecto SISMU
-(pagina)[https://david-gv.github.io/paginadocumentacion/]
+Pagina Documentación
+Pagina documentación del proyecto SISMU \
+[Página Documentación](https://david-gv.github.io/paginadocumentacion/)
